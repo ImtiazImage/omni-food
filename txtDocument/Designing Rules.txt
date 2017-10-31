@@ -1,0 +1,66 @@
+
+
+                                            "STEAL like and ARTIST"
+@ Rules and regulation for designing a website
+============================================
+###USER INTERFACE: Presentation of a product.How it looks and feels.
+
+1) Flat Design
+==============
+#How???
+
+@Typography:
+ 1) Typography - Use a font size between 15-25 pixels commonly withing body tag
+ 2) Use a really big font size for HEADLINES (No limitation) and decrease the font weight if needed.
+ 3) Use a line spacing between 120 and 150%. (Line spacing is the vertical distance between texts).
+ 4) 45 to 90 characters per line.
+ 5) use good looking fonts always. For example: Sans-serif,Serif typeface .Find it from google web fonts. Target to engage audience.
+
+@Color:
+
+ 1) Use only one base color. Means only one main color. Can be chosen from flat UI colors. Tools:0-255 for color plate.
+ 2) Use a tool if you want to use more color.
+ 3) Use color to draw attention
+ 4) Never use black in your design.
+ 5) Choose colors wisely. For example: Res,Orange,Yellow,Green,Blue,Purple,Pink,Brawn.
+
+@Images:
+
+ 1) Put text directly on the image along with overlaying the image.
+ 2) Overlay the image with colors.
+ 3) Put your text in box when attached with images.
+ 4) Blur the image as much as possible.
+ 5) The floor fade. Fading at the bottom with black.
+
+@Icons:
+
+ 1) Use icons to list Features/Steps.
+ 2) Use icons for actions and links.
+ 3) Icons should be recognizable.
+ 4) Label your icons.
+ 5) Icons should not take the center part of the web page.
+ 6) Use icon fonts whenever possible. For example: vector icon font.
+
+@Spacing and Layout:
+
+ 1) Use Whitespace.
+  1) Put whitespace between your elements
+  2) put whitespace between your groups of elements
+  3) put whitespace between your websites sections
+  4) But do not exaggerate(Space out too much)
+
+ 2) Define Hierarchy: Whitespace describes invisible relationships between the elements of your websites.
+  1) Define where you want your audience to look first
+  2) Establish a flow that corresponds to your content's message
+  3) Use whitespace to build that flow.
+
+###USER EXPERIENCE: Is the overall experience the user has with a product. Always think about user's goal and business goal.
+
+Finally, get Inspiration
+
+ 1) Always watch what others are using in their websites and how they are using it.
+ 2) Collect a bunch of well design sites.
+ 3) Try to understand them.
+ 4) Why do they look good?
+ 5) What do these sites have in common?
+ 6) How were they built in HTML AND CSS?

@@ -1,0 +1,29 @@
+
+
+
+                                   "Real world steps to build a fully functional websites"
+
+
+
+1) Defien your Project
+    1) Define the goal of your project
+    2) Define your audience
+    3) Design with your goal and audience in mind
+
+2) Plan Out everything
+    1) Plan your content: text,images,videos,icons,etc
+    2) Start thinking about visual hierarchy (Content)
+    3) Define the navigtion
+    4) Define the site structure it it's a bigger project
+
+3) Sketch your ideas before you design
+    1) Get inspired and think about your design
+    2) Get the ideas out of your head
+
+4) Design and develop your website
+
+5) Optimize your site
+
+6) Launch the masterpiece
+
+7) Site maintenance

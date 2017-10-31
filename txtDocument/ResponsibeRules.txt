@@ -1,0 +1,10 @@
+
+                                        "Three ingredients to responsive webdesign"
+
+1) Fuid Grid:
+    all layout elements are sized in relative unites, such as percentages, instead of absolute units like pixels.
+
+2) Flexible Images
+
+3) Media Queries:
+    allow us to specify different css style for different browser widths

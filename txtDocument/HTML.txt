@@ -1,0 +1,43 @@
+
+                                                    "What is HTML"
+
+1) Hyper text markup language.
+
+2) HTML documents are described by HTML tags like: <h1>, <p>, <a> etc
+
+3) Tegs mark up the beginning and the end of and element.
+   For example: <tagname>Content</tagname>
+
+4) Save using .html extension
+
+5) Always starts with tags <html> </html>
+
+6) Inside the html element always put <head> </head> and <body> </body> two main element.
+
+7) Head element include title, css styles, js links, seo etc.
+
+8) Body element includes all the visible stuffs.
+
+9) Above all declate <!DOCTYPE html>. Told the browser that it is a HTML5 file.
+
+10) Use title tag for the title of your site.
+
+11) Use headings tags like <h1>-<h6> within body element.
+
+12) Use paragrapg tags <p>
+
+13) Strong element for bold.
+
+14) em tags of Italics.
+
+15) Use images from randomuser.me
+
+16) Arrtibuts provides additional information about html tags. Like src etc
+
+16) <img src="url" alt="">
+
+17) For linking use a tags. For example: <a href="url" target="">Text</a>
+
+18) target attributs define where to open the link.
+
+19)

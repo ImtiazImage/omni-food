@@ -1,0 +1,62 @@
+
+                                                    "What is CSS"
+
+
+1) Cascading style sheets
+
+2) Css defines exactly how html looks like
+
+3) Html is content
+
+4) CSS is style
+
+5) Three ways to write CSS
+ 1) CSS code inside an HTML tag. For example: <p style="font-size: 120%">
+ 2) CSS code inside an HTML document wihtin head usually. For example: <style>p{font-size: 120%}</style>
+ 3) CSS code in external file.For example: p{font-size: 120%;}
+
+6) Save as .css
+
+7) link the external css file within the head. For example: <link rel="stylesheet" type="text/css" href="">
+
+8) Css for text formatting: h1,h2{ color: green;font-size:40px;font-family:Helvetica Neue,Arial;}
+
+9) text-align property is often use to format text
+
+** 10) Child element inherits the property of its parents element unless we override.
+
+11) Color in CSS:
+ 1) The RGB MODEL: #RRGGBB. For each color: MIN:0 and MAx:255. Hexadecimal code.
+
+ 2) Transparency with RGBA. Example: rgba(29,167,23,0.75) gives a green color with transperancy.
+
+12) Selectors: Classes and Ids.
+ 1) attach them to elements. same class can be given to many element. But id can not be given
+ 2) for classes: use . then className.
+ 3) for Ids: use # then idName
+
+** 13) THE BOX MODEL:
+    1) Composed of Content: text,images etc (Most inner layer)-> also includes (width and height)
+    2) Padding: transparent area around the content,
+        inside of the box. (In between border and content)->
+    3) Border: goes around the padding and the content ->
+    4) Margin: space between boxes.(Most outer layer) ->
+    **5) Be sure to use boz-sizing
+    **6) Inline and block level element.
+    **7) We can not define any height and weight for inline element.
+
+14) First remove the default values by *{maring:0;padding:0;box-sizing:border-box}
+
+15) Use div element to separate contents of your sites
+
+16) Use left and right margin auto to center your content.
+
+17) Focus on float property and clearfix:after{content:"";display:table;clear:both}
+
+18) to select a specific image without giving another class. we will choose a parent class like .author-box img!!!!
+
+** 19) Element positioning: Relative vs Absolute
+
+So far all our elements are relativ. means position of your elements is determined by another elements
+**Elements with absolute position can be placed anywhere inside their parent elements. Must ensure that
+its parent element is Relatively positioned.
